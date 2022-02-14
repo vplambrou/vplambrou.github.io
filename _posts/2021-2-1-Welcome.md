@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Vanessa Penelope Lambrou is a second year Biochemistry major at Cal Poly, San Luis Obispo. 
