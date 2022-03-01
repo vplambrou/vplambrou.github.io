@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Publications
+permalink: /pub/
 ---
 
-1. A great project.
-2. Another great project.
+1. A great pub
+2. Another great pub.
