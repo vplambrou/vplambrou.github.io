@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /pub/
+permalink: /pubs/
 ---
 
 1. A great pub
