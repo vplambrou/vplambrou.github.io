@@ -6,7 +6,7 @@ permalink: /people/
 
 |         |      |   |
 |---------|------|---|
-|**Erin Straine**      |      |**Ester McCaffrey**|
+|**Erin Straine**      |   ->   |**Ester McCaffrey**|
 |*Industrial Project Manager*      |      |*Chemistry Supervisor*|
 |estraine@trinityhallnj.org      |      |emccaffrey@trinityhallnj.org|
 |---------|------|---|
@@ -15,8 +15,6 @@ permalink: /people/
 
 <details><summary>Erin Strain, Industrial Project Manager</summary>
   <p>
-    
-     estraine@trinityhallnj.org
-    
+      estraine@trinityhallnj.org
   </p>
   </details>
