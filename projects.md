@@ -18,3 +18,5 @@ The innerworkings of the micro water filter incorporates three major steps:
   2. A coal, sand, and gravel bed to catch unwanted particles 
 
   3. The addition of chlorine to kill bacteria and prevent water-born illnesses 
+
+<hr   />
