@@ -35,30 +35,30 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
   - Excel
   - PowerPoint 
 
-**Lab Technique Familiarity**
-- Infrared Spectroscopy Instrument
-- Nuclear Magnetic Resonance Spectroscopy Instrument
-- Spectrophotometer
+- Lab Technique Familiarity
+  - Infrared Spectroscopy Instrument
+  - Nuclear Magnetic Resonance Spectroscopy Instrument
+  - Spectrophotometer
 
-**Computer Aided Design (CAD)**
+- Computer Aided Design (CAD)
 
-**Basic Programming**
-- Python
-- JavaScript 
+- Basic Programming
+  - Python
+  - JavaScript 
 
-**3D Printing**
+-3D Printing
 
-**Soldering**
+- Soldering
 
 
 
 ### Interests:
 
--Reading Fiction Novels
--Surfing
--Swimming
--Baking
--Exercising 
+- Reading Fiction Novels
+- Surfing
+- Swimming
+- Baking
+- Exercising 
 
 
 ### More Information
