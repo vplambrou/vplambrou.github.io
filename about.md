@@ -29,11 +29,11 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 ### Skills:
 
-**Microsoft Office**
-- Outlook
-- Word
-- Excel
-- PowerPoint 
+- Microsoft Office
+  - Outlook
+  - Word
+  - Excel
+  - PowerPoint 
 
 **Lab Technique Familiarity**
 - Infrared Spectroscopy Instrument
