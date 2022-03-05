@@ -18,3 +18,9 @@ permalink: /people/
       &emsp;&emsp; estraine@trinityhallnj.org
   </p>
   </details>
+  
+  <details><summary>Ester McCaffrey, Chemistry Supervisor</summary>
+  <p>
+      &emsp;&emsp; emccaffrey@trinityhallnj.org
+  </p>
+  </details>
