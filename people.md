@@ -10,13 +10,13 @@ permalink: /people/
 |*Industrial Project Manager*      |      |*Chemistry Supervisor*|
 |estraine@trinityhallnj.org      |      |emccaffrey@trinityhallnj.org|
 |---------|------|---|
+|         |      |   |  
 
 
-
-<details><summary>Erin Strain, *Industrial Project Manager*</summary>
+<details><summary>Erin Strain, Industrial Project Manager</summary>
   <p>
-    ```ruby
-    puts "estraine@trinityhallnj.org"
-    ```
+    
+     estraine@trinityhallnj.org
+    
   </p>
   </details>
