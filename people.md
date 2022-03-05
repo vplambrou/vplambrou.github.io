@@ -12,3 +12,11 @@ permalink: /people/
 |---------|------|---|
 
 
+
+<details><summary>Erin Strain, *Industrial Project Manager*</summary>
+  <p>
+    ```ruby
+    puts "estraine@trinityhallnj.org"
+    ```
+  </p>
+  </details>
