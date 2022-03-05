@@ -46,9 +46,9 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
   - Python
   - JavaScript 
 
--3D Printing
+- 3D Printing
 
--Soldering
+- Soldering
 
 
 
