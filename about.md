@@ -4,17 +4,43 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 
-### Courses
+### Education:
 
-A place to include any other types of information that you'd like to include about yourself.
+California Polytechnic State University, San Luis Obispo, CA.	      September 2020 – Present 
+
+Bachelor of Science in Biochemistry				        Expected graduation: June 2024 
+
+
+
+### Relevant Coursework: 
+
+General chemistry, general biology, general physics, calculus I, II, and III, organic chemistry I and II 
+
+
+
+### Skills:
+
+Microsoft Office (Outlook, Word, Excel, PowerPoint) 
+
+Lab Technique Familiarity (Infrared Spectroscopy Instrument, Nuclear Magnetic Resonance Spectroscopy Instrument, Spectrophotometer) 
+
+CAD and Basic Programming (Python, JavaScript) 
+
+3D Printing and Soldering 
+
+
+
+### Interests:
+
+Reading Fiction Novels, Surfing, Swimming, Baking, and Exercising 
 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+placeholder....
 
 
 ### Contact me
