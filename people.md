@@ -4,4 +4,7 @@ title: Group Members
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+
+Erin Straine 								     Industrial Project Manager 
+
+Ester McCaffrey 								 Chemistry Supervisor 
