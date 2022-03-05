@@ -39,15 +39,11 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
   - Infrared Spectroscopy Instrument
   - Nuclear Magnetic Resonance Spectroscopy Instrument
   - Spectrophotometer
-
 - Computer Aided Design (CAD)
-
 - Basic Programming
   - Python
   - JavaScript 
-
 - 3D Printing
-
 - Soldering
 
 
