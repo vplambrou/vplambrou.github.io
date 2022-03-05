@@ -13,14 +13,3 @@ permalink: /people/
 |         |      |   |  
 
 
-<details><summary>Erin Strain, Industrial Project Manager</summary>
-  <p>
-      &emsp;&emsp; estraine@trinityhallnj.org
-  </p>
-  </details>
-  
-  <details><summary>Ester McCaffrey, Chemistry Supervisor</summary>
-  <p>
-      &emsp;&emsp; emccaffrey@trinityhallnj.org
-  </p>
-  </details>
