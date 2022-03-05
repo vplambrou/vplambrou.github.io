@@ -6,12 +6,13 @@ permalink: /about/
 
 Some information about me!
 
+<br>
 
 ### Education:
 
-California Polytechnic State University, San Luis Obispo, CA.	      September 2020 – Present 
-
-Bachelor of Science in Biochemistry				        Expected graduation: June 2024 
+September 2020 – Present 
+California Polytechnic State University, San Luis Obispo, CA.	      
+Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 
 
@@ -28,19 +29,36 @@ Bachelor of Science in Biochemistry				        Expected graduation: June 2024
 
 ### Skills:
 
-Microsoft Office (Outlook, Word, Excel, PowerPoint) 
+**Microsoft Office**
+- Outlook
+- Word
+- Excel
+- PowerPoint 
 
-Lab Technique Familiarity (Infrared Spectroscopy Instrument, Nuclear Magnetic Resonance Spectroscopy Instrument, Spectrophotometer) 
+**Lab Technique Familiarity**
+- Infrared Spectroscopy Instrument
+- Nuclear Magnetic Resonance Spectroscopy Instrument
+- Spectrophotometer
 
-CAD and Basic Programming (Python, JavaScript) 
+**Computer Aided Design (CAD)**
 
-3D Printing and Soldering 
+**Basic Programming**
+- Python
+- JavaScript 
+
+**3D Printing**
+
+**Soldering**
 
 
 
 ### Interests:
 
-Reading Fiction Novels, Surfing, Swimming, Baking, and Exercising 
+-Reading Fiction Novels
+-Surfing
+-Swimming
+-Baking
+-Exercising 
 
 
 ### More Information
