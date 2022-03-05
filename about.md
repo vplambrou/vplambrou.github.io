@@ -17,7 +17,12 @@ Bachelor of Science in Biochemistry				        Expected graduation: June 2024
 
 ### Relevant Coursework: 
 
-General chemistry, general biology, general physics, calculus I, II, and III, organic chemistry I and II 
+- General Chemistry
+- Organic Chemistry I and II 
+- General Biology
+- General Physics
+- Calculus I, II, and III
+
 
 
 
