@@ -58,16 +58,15 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 - Baking
 - Exercising 
 
+### Favorite Element:
+
+![Favorite Element](/images/f_sm.png)
+
 <br>
 <hr>
 <br>
-### More Information
 
-[Youtube Channel](https://www.youtube.com/channel/UCRZ5fU8cU0-dqfxb0bzuzXA)
 
-Favorite Element:
-
-![Favorite Element](/images/f_sm.png)
 
 ### Contact me
 
