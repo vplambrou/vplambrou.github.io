@@ -59,7 +59,7 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 ### More Information
 
-placeholder....
+Youtube: https://www.youtube.com/channel/UCRZ5fU8cU0-dqfxb0bzuzXA 
 
 
 ### Contact me
