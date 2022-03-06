@@ -65,7 +65,10 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 [Youtube Channel](https://www.youtube.com/channel/UCRZ5fU8cU0-dqfxb0bzuzXA)
 
+Favorite Element: ![Favorite Element] (/images/f.png)
 
 ### Contact me
 
-[vlambrou@calpoly.edu](mailto:vlambrou@calpoly.edu)
+!(/images/env1.png) [vlambrou@calpoly.edu](mailto:vlambrou@calpoly.edu)
+
+<br>
