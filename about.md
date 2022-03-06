@@ -9,9 +9,9 @@ permalink: /about/
 <br>
 
 ### Education:
-
-September 2020 – Present 
-California Polytechnic State University, San Luis Obispo, CA.	      
+ 
+California Polytechnic State University, San Luis Obispo, CA
+*September 2020 – Present*
 Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 
