@@ -11,7 +11,7 @@ permalink: /projects/
 
 ### EZEE Pick Robotic Arm 
 
-![EZEE](/images/EZRA.jpg)
+![EZEE](/assets/images/EZRA.jpg)
 The grab and pick industry like vineyards employ manual labor to pick their grapes. Grapes are susceptible to pests and diseases therefore pesticides are used to protect the product until it can be picked. There is growing evidence that the pesticides used to protect the grapes are causing health problems and hazardous work environments for the workers. 
 
  
