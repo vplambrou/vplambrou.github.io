@@ -13,6 +13,7 @@ permalink: /about/
 California Polytechnic State University, San Luis Obispo, CA
 
 *September 2020 – Present*
+
 Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 
@@ -67,4 +68,4 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 ### Contact me
 
-:email:[vlambrou@calpoly.edu](mailto:vlambrou@calpoly.edu)
+[vlambrou@calpoly.edu](mailto:vlambrou@calpoly.edu)
