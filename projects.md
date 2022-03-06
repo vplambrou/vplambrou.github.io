@@ -11,14 +11,16 @@ permalink: /projects/
 
 ### EZEE Pick Robotic Arm 
 
-![EZEE](/assets/images/EZRA.jpg)
+![EZEE](/images/ezra.png)
+
 The grab and pick industry like vineyards employ manual labor to pick their grapes. Grapes are susceptible to pests and diseases therefore pesticides are used to protect the product until it can be picked. There is growing evidence that the pesticides used to protect the grapes are causing health problems and hazardous work environments for the workers. 
 
  
+![EZEE2](/images/ezra_vpl_2.png)
 
 To reduce the exposure of humans to pesticides that can cause long term health problems, an Arduino controlled robotic arm was developed and distributed to the workers in the grab and pick industry. The Arduino microcontroller is a readily available technology that can be easily acquired, and the material choice for the body and claw of the robot is a 3D printed PLA filament which is also easily accessible and low cost. 
 
-
+![EZEE1](/images/ezra_vpl_1.png)![EZEE3](/images/ezra_vpl_3.png)
 
 <br>
 <hr/>
