@@ -20,7 +20,7 @@ The grab and pick industry like vineyards employ manual labor to pick their grap
 
 To reduce the exposure of humans to pesticides that can cause long term health problems, an Arduino controlled robotic arm was developed and distributed to the workers in the grab and pick industry. The Arduino microcontroller is a readily available technology that can be easily acquired, and the material choice for the body and claw of the robot is a 3D printed PLA filament which is also easily accessible and low cost. 
 
-![EZEE1](/images/EZPRA_VPL_1.jpg)![EZEE3](/images/EZPRA_VPL_3.jpg)
+![EZEE1](/images/EZPRA_VPL_1.jpg)
 
 <br>
 <hr/>
