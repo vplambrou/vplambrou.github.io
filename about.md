@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title:
 permalink: /about/
 ---
 
-Some information about me!
+
 
 <br>
 
@@ -61,7 +61,7 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 <br>
 ### More Information
 
-Youtube: https://www.youtube.com/channel/UCRZ5fU8cU0-dqfxb0bzuzXA 
+[Youtube Channel](https://www.youtube.com/channel/UCRZ5fU8cU0-dqfxb0bzuzXA)
 
 
 ### Contact me
