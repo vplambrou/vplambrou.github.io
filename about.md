@@ -67,4 +67,4 @@ Bachelor of Science in Biochemistry	*(Expected graduation: June 2024)*
 
 ### Contact me
 
-[vlambrou@calpoly.edu](mailto:vlambrou@calpoly.edu)
+:email:[vlambrou@calpoly.edu](mailto:vlambrou@calpoly.edu)
